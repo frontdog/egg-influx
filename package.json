@@ -1,0 +1,29 @@
+{
+  "name": "egg-influx",
+  "version": "0.0.1",
+  "description": "influx orm plugin for egg",
+  "main": "index.js",
+  "eggPlugin": {
+    "name": "influx"
+  },
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "influx"
+  ],
+  "dependencies": {
+    "influx": "^5.0.7"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontdog/egg-influx"
+  },
+  "bugs": "https://github.com/frontdog/egg-influx/issues",
+  "homepage": "https://github.com/frontdog/egg-influx",
+  "author": "frontdog",
+  "license": "MIT"
+}
